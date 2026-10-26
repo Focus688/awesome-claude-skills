@@ -217,6 +217,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
+- [agent-security-skills](https://github.com/Focus688/agent-security-skills) - Five operational security skills for AI agent runtimes: safe add-on install with snapshot/rollback, silent-failure sweeps for cron pipelines, MCP permission audits, LLM attack-surface mapping, and third-party SKILL.md vetting checklist. Every rule from real incidents. *By [@Focus688](https://github.com/Focus688)*
 
 ### Assistive Technology
 
